@@ -15,6 +15,7 @@ package selinux
 
 // This file contains "se_cil_compat_map" module type used to build and install
 // sepolicy backwards compatibility mapping files.
+
 import (
 	"android/soong/android"
 	"fmt"
